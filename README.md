@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niewold
-- 👀 I’m interested in software development, engineering, and UX
-- 🌱 I’m currently learning e-commerce and Mobile/ IoT
-- 💞️ I’m looking to collaborate on TBD
+- 👀 I’m interested in UX design, UX research, and front-end development
+- 🌱 I’m currently completing the Google UX Design Certificate
+- 💞️ I’m building my portfolio, working on a canine app, and various UX design projects
 - 📫 How to reach me lauren.niewold@gmail.com
 
 <!---
